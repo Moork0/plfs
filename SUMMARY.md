@@ -9,4 +9,5 @@
   * [منطقِ بسته ها در این کتاب](pyshgftar/mntqe-bsth-ha-dr-ayn-ktab.md)
   * [پیش‌نیاز ها](pyshgftar/pysh-nyaz-ha.md)
   * [تایپوگرافی](pyshgftar/taypwgrafy.md)
+* [ساختار](sakhtar.md)
 
