@@ -6,5 +6,5 @@
 
 ### **ترجمه** [**سیدپولر**](https://github.com/seedpuller)
 
-[مشاهده در GitBook](https://seedpuller.gitbook.io/plfs)
+[شروع به خواندن در گیت‌بوک](https://seedpuller.gitbook.io/plfs)
 
