@@ -4,7 +4,5 @@
 
 ## **جرارد بیک‌مَنز**
 
-### **ترجمه** [**سیدپولر**](https://github.com/seedpuller)
-
 [شروع به خواندن در گیت‌بوک](https://seedpuller.gitbook.io/plfs)
 
